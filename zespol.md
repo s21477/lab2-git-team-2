@@ -1,4 +1,4 @@
-# Zespół
+# Nazwa grupy
 Nazwa zespołu: Guacamole
 ## Skład
 Tomasz
