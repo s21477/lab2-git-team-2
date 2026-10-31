@@ -5,3 +5,5 @@ Nazwa zespołu: ???
 ???
 ## Ulubione technologie
 Java
+C
+
