@@ -1,5 +1,5 @@
 # Zespół
-Nazwa zespołu: Skrzypasy
+Nazwa zespołu: SRDGFRGdFRGFKVJ394
 ## Skład
 Tomasz
 ## Motto
