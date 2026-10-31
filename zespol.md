@@ -3,7 +3,7 @@ Nazwa zespołu: Guacamole
 ## Skład
 Tomasz
 ## Motto
-Najpierw git pull, potem praca.
+Jak nie działa to idziemy do domu
 ## Ulubione technologie
 Java
 C
