@@ -7,7 +7,7 @@ Nazwa zespołu: SRDGFRGdFRGFKVJ394
 ## Skład
 Tomasz
 ## Motto
-???
+Venii Vidi Vici
 ## Ulubione technologie
 Java
 C
