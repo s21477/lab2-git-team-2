@@ -7,7 +7,7 @@ Nazwa zespołu: SRDGFRGdFRGFKVJ394
 ## Skład
 Tomasz
 ## Motto
-???
+Najpierw git pull, potem praca.
 ## Ulubione technologie
 Java
 C
