@@ -1,0 +1,1 @@
+- Chcę nauczyć się pracy z gitem w zespole
