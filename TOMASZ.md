@@ -5,4 +5,4 @@ Kolejne zdanie
 
 ## Hobby
 
-grabienie lizci
+grabienie lisci
