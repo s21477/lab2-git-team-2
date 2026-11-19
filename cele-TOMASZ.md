@@ -1,0 +1,2 @@
+- Zdać Full stack development
+- Zrobić własną grę
