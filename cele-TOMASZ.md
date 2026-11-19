@@ -1,0 +1,1 @@
+- Zdać Full stack development
