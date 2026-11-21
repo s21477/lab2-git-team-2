@@ -1,1 +1,2 @@
 - zdać sieci komputerowe
+- zdać
