@@ -8,3 +8,4 @@ Najpierw git pull, potem praca.
 Java
 C
 
+Data zajęć: 18.10.2026
