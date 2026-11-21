@@ -1,4 +1,4 @@
-# Zespół – wersja Kuby
+# Zespół Guacamole
 Nazwa zespołu: Guacamole
 ## Skład
 Tomasz

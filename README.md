@@ -1,2 +1,1 @@
-# lab2-git-team-2
-FSD - repozytorium do zadania nr. 2
+Repozytorium zespołu Guacamole do ćwiczeń z gita w zespole.
